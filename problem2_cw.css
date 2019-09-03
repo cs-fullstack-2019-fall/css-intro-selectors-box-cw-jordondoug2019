@@ -1,0 +1,33 @@
+p{
+    background-color: gray;
+    margin-right: 10%;
+}
+.secondParagraph {
+    background-color: blue;
+    text-align: center;
+}
+.post{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.quote{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px    ;
+}
+.secondParagraph {
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.jibberish
+{
+     width: 500px;
+    height: 100px;
+    padding:10px;
+    border: 3px;
+    border-style: dashed;
+    text-align: center;
+    te
+}
